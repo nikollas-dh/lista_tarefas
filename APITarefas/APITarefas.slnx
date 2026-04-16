@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="APITarefas/APITarefas.csproj" />
+  <Project Path="AppMobile/AppMobile.csproj" Id="c89ee727-4e95-47df-b13e-15baeb6b920f">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>

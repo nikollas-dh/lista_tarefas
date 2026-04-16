@@ -1,0 +1,85 @@
+using System.Collections.ObjectModel;
+using System.Text.Json;
+using AppMobile.Models;
+using Task = AppMobile.Models.Task;
+
+namespace AppMobile;
+
+public partial class HomePage : ContentPage
+{
+    public HomePage()
+    {
+        InitializeComponent();
+    }
+    ObservableCollection<Task> _listTasks = new ObservableCollection<Task>();
+
+    List<Task> _listaIntermediaria = new List<Task>();
+    protected override void OnAppearing()
+    {
+        base.OnAppearing();
+        LoadData();
+    }
+
+
+    private async void AdicionarTarefa_Clicked(object sender, EventArgs e)
+    {
+        await Navigation.PushModalAsync(new NovaTarefaPage());
+    }
+
+    private async void LoadData()
+    {
+        HttpClient client = new HttpClient();
+        var response = await client.GetAsync("http://10.0.2.2:5123/api/tasks");
+        var content = await response.Content.ReadAsStringAsync();
+
+        if (content == "" || content == null)
+            return;
+
+
+        var options = new JsonSerializerOptions { PropertyNameCaseInsensitive = true };
+        var listaDeApi = JsonSerializer.Deserialize<List<Task>>(content, options);
+
+        if (listaDeApi != null)
+        {
+            _listTasks.Clear();
+            foreach (var item in listaDeApi)
+            {
+                _listTasks.Add(item);
+            }
+            colTasks.ItemsSource = _listTasks;
+        }
+
+
+            //_listaIntermediaria = JsonSerializer.Deserialize<List<Task>>(content).ToList();
+
+            //_listTasks.Clear();
+            //foreach (var item in _listaIntermediaria)
+            //{
+            //    _listTasks.Add(item);
+            //}
+
+
+
+
+            //colTasks.ItemsSource = _listTasks;
+        }
+
+    private async void ImageButton_Clicked(object sender, EventArgs e)
+    {
+        var question = await DisplayAlert("Alert - Tasks", "Deseja realmente remover a tarefa?", "Sim", "Não");
+
+        if (question)
+        {
+            var obj = (sender as ImageButton).BindingContext as Task;
+
+
+            HttpClient client = new HttpClient();
+            var response = await client.GetAsync($"http://10.0.2.2:5123/api/tasks/{obj.Id}");
+
+            DisplayAlert("Information - Tasks", "Tarefa removida com sucesso", "Ok");
+
+            _listTasks.Remove(obj);
+
+        }
+    }
+}

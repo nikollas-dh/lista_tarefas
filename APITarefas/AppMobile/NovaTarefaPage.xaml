@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppMobile.NovaTarefaPage"
+             Title="NovaTarefaPage">
+    <VerticalStackLayout>
+        <Label 
+            Text="Adicionar nova tarefa:"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center"
+            FontSize="24"
+            Margin="0,0,0,100"/>
+        <Entry x:Name="txtNome"
+               WidthRequest="300"
+               Placeholder="Nome"/>
+        <Entry 
+            x:Name="txtDescricao"
+            WidthRequest="300"
+            Placeholder="Descrição"/>
+        <Button 
+            Text="Adicionar"
+            WidthRequest="200"
+            Margin="0,100,0,0"/>
+    </VerticalStackLayout>
+</ContentPage>

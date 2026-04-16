@@ -1,0 +1,512 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|c:\\users\\nikollas\\desktop\\lista_tarefas\\apitarefas\\appmobile\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|solutionrelative:appmobile\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|c:\\users\\nikollas\\desktop\\lista_tarefas\\apitarefas\\appmobile\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|solutionrelative:appmobile\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|c:\\users\\nikollas\\desktop\\lista_tarefas\\apitarefas\\appmobile\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|solutionrelative:appmobile\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33EF9BE-0903-37D6-9914-BA9DE2AA1473}|APITarefas\\APITarefas.csproj|c:\\users\\nikollas\\desktop\\lista_tarefas\\apitarefas\\apitarefas\\apitarefas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A33EF9BE-0903-37D6-9914-BA9DE2AA1473}|APITarefas\\APITarefas.csproj|solutionrelative:apitarefas\\apitarefas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|c:\\users\\nikollas\\desktop\\lista_tarefas\\apitarefas\\appmobile\\models\\subtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|solutionrelative:appmobile\\models\\subtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33EF9BE-0903-37D6-9914-BA9DE2AA1473}|APITarefas\\APITarefas.csproj|c:\\users\\nikollas\\desktop\\lista_tarefas\\apitarefas\\apitarefas\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33EF9BE-0903-37D6-9914-BA9DE2AA1473}|APITarefas\\APITarefas.csproj|solutionrelative:apitarefas\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|c:\\users\\nikollas\\desktop\\lista_tarefas\\apitarefas\\appmobile\\appmobile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|solutionrelative:appmobile\\appmobile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33EF9BE-0903-37D6-9914-BA9DE2AA1473}|APITarefas\\APITarefas.csproj|c:\\users\\nikollas\\desktop\\lista_tarefas\\apitarefas\\apitarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33EF9BE-0903-37D6-9914-BA9DE2AA1473}|APITarefas\\APITarefas.csproj|solutionrelative:apitarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|c:\\users\\nikollas\\desktop\\lista_tarefas\\apitarefas\\appmobile\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|solutionrelative:appmobile\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|c:\\users\\nikollas\\desktop\\lista_tarefas\\apitarefas\\appmobile\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|solutionrelative:appmobile\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|c:\\users\\nikollas\\desktop\\lista_tarefas\\apitarefas\\appmobile\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|solutionrelative:appmobile\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|c:\\users\\nikollas\\desktop\\lista_tarefas\\apitarefas\\appmobile\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|solutionrelative:appmobile\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|c:\\users\\nikollas\\desktop\\lista_tarefas\\apitarefas\\appmobile\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|solutionrelative:appmobile\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33EF9BE-0903-37D6-9914-BA9DE2AA1473}|APITarefas\\APITarefas.csproj|c:\\users\\nikollas\\desktop\\lista_tarefas\\apitarefas\\apitarefas\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33EF9BE-0903-37D6-9914-BA9DE2AA1473}|APITarefas\\APITarefas.csproj|solutionrelative:apitarefas\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33EF9BE-0903-37D6-9914-BA9DE2AA1473}|APITarefas\\APITarefas.csproj|c:\\users\\nikollas\\desktop\\lista_tarefas\\apitarefas\\apitarefas\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A33EF9BE-0903-37D6-9914-BA9DE2AA1473}|APITarefas\\APITarefas.csproj|solutionrelative:apitarefas\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33EF9BE-0903-37D6-9914-BA9DE2AA1473}|APITarefas\\APITarefas.csproj|c:\\users\\nikollas\\desktop\\lista_tarefas\\apitarefas\\apitarefas\\models\\subtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33EF9BE-0903-37D6-9914-BA9DE2AA1473}|APITarefas\\APITarefas.csproj|solutionrelative:apitarefas\\models\\subtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33EF9BE-0903-37D6-9914-BA9DE2AA1473}|APITarefas\\APITarefas.csproj|c:\\users\\nikollas\\desktop\\lista_tarefas\\apitarefas\\apitarefas\\apitarefas.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A33EF9BE-0903-37D6-9914-BA9DE2AA1473}|APITarefas\\APITarefas.csproj|solutionrelative:apitarefas\\apitarefas.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33EF9BE-0903-37D6-9914-BA9DE2AA1473}|APITarefas\\APITarefas.csproj|c:\\users\\nikollas\\desktop\\lista_tarefas\\apitarefas\\apitarefas\\models\\dbtaskscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33EF9BE-0903-37D6-9914-BA9DE2AA1473}|APITarefas\\APITarefas.csproj|solutionrelative:apitarefas\\models\\dbtaskscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|c:\\users\\nikollas\\desktop\\lista_tarefas\\apitarefas\\appmobile\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|solutionrelative:appmobile\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|c:\\users\\nikollas\\desktop\\lista_tarefas\\apitarefas\\appmobile\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|solutionrelative:appmobile\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|c:\\users\\nikollas\\desktop\\lista_tarefas\\apitarefas\\appmobile\\mainpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|solutionrelative:appmobile\\mainpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|c:\\users\\nikollas\\desktop\\lista_tarefas\\apitarefas\\appmobile\\novatarefapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|solutionrelative:appmobile\\novatarefapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|c:\\users\\nikollas\\desktop\\lista_tarefas\\apitarefas\\appmobile\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|solutionrelative:appmobile\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|c:\\users\\nikollas\\desktop\\lista_tarefas\\apitarefas\\appmobile\\novatarefapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|solutionrelative:appmobile\\novatarefapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|c:\\users\\nikollas\\desktop\\lista_tarefas\\apitarefas\\appmobile\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|solutionrelative:appmobile\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|c:\\users\\nikollas\\desktop\\lista_tarefas\\apitarefas\\appmobile\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|solutionrelative:appmobile\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|c:\\users\\nikollas\\desktop\\lista_tarefas\\apitarefas\\appmobile\\resources\\images\\dotnet_bot.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|solutionrelative:appmobile\\resources\\images\\dotnet_bot.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|c:\\users\\nikollas\\desktop\\lista_tarefas\\apitarefas\\appmobile\\resources\\splash\\splash.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C89EE727-4E95-47DF-B13E-15BAEB6B920F}|AppMobile\\AppMobile.csproj|solutionrelative:appmobile\\resources\\splash\\splash.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33EF9BE-0903-37D6-9914-BA9DE2AA1473}|APITarefas\\APITarefas.csproj|c:\\users\\nikollas\\desktop\\lista_tarefas\\apitarefas\\apitarefas\\apitarefas.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A33EF9BE-0903-37D6-9914-BA9DE2AA1473}|APITarefas\\APITarefas.csproj|solutionrelative:apitarefas\\apitarefas.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "dotnet_bot.png - PNG [1200x694, 32 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\Resources\\Images\\dotnet_bot.png",
+              "RelativeDocumentMoniker": "AppMobile\\Resources\\Images\\dotnet_bot.png",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\Resources\\Images\\dotnet_bot.png - PNG [1200x694, 32 bits, PNG]",
+              "RelativeToolTip": "AppMobile\\Resources\\Images\\dotnet_bot.png - PNG [1200x694, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-04-14T16:08:50.512Z",
+              "IsPinned": true,
+              "EditorCaption": " - PNG [1200x694, 32 bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "AppMobile\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\HomePage.xaml.cs*",
+              "RelativeToolTip": "AppMobile\\HomePage.xaml.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T16:45:34.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\HomePage.xaml",
+              "RelativeDocumentMoniker": "AppMobile\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\HomePage.xaml*",
+              "RelativeToolTip": "AppMobile\\HomePage.xaml*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowCgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-14T16:19:47.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\APITarefas\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "APITarefas\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\APITarefas\\Properties\\launchSettings.json",
+              "RelativeToolTip": "APITarefas\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-13T14:42:27.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "AppMobile\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\Models\\Task.cs",
+              "RelativeToolTip": "AppMobile\\Models\\Task.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T19:21:13.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "AppMobile\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "AppMobile\\Platforms\\Android\\AndroidManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-16T17:53:38.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "AppMobile\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "AppMobile\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T18:33:32.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\APITarefas\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "APITarefas\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\APITarefas\\Models\\Task.cs",
+              "RelativeToolTip": "APITarefas\\Models\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:01:42.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\APITarefas\\Program.cs",
+              "RelativeDocumentMoniker": "APITarefas\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\APITarefas\\Program.cs",
+              "RelativeToolTip": "APITarefas\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:30:58.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "APITarefas.csproj",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\APITarefas\\APITarefas.csproj",
+              "RelativeDocumentMoniker": "APITarefas\\APITarefas.csproj",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\APITarefas\\APITarefas.csproj",
+              "RelativeToolTip": "APITarefas\\APITarefas.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-14T19:35:45.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SubTask.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\Models\\SubTask.cs",
+              "RelativeDocumentMoniker": "AppMobile\\Models\\SubTask.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\Models\\SubTask.cs",
+              "RelativeToolTip": "AppMobile\\Models\\SubTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T19:21:31.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppMobile.csproj",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\AppMobile.csproj",
+              "RelativeDocumentMoniker": "AppMobile\\AppMobile.csproj",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\AppMobile.csproj",
+              "RelativeToolTip": "AppMobile\\AppMobile.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-14T16:19:20.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AppMobile\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\App.xaml.cs",
+              "RelativeToolTip": "AppMobile\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T18:34:49.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\APITarefas\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "APITarefas\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\APITarefas\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "APITarefas\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAcwGAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:45:14.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "AppMobile\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "AppMobile\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T18:33:33.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SubTask.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\APITarefas\\Models\\SubTask.cs",
+              "RelativeDocumentMoniker": "APITarefas\\Models\\SubTask.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\APITarefas\\Models\\SubTask.cs",
+              "RelativeToolTip": "APITarefas\\Models\\SubTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:05:02.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\App.xaml",
+              "RelativeDocumentMoniker": "AppMobile\\App.xaml",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\App.xaml",
+              "RelativeToolTip": "AppMobile\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-14T18:34:45.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "APITarefas.http",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\APITarefas\\APITarefas.http",
+              "RelativeDocumentMoniker": "APITarefas\\APITarefas.http",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\APITarefas\\APITarefas.http",
+              "RelativeToolTip": "APITarefas\\APITarefas.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-04-16T16:59:57.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppMobile\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\MainPage.xaml.cs",
+              "RelativeToolTip": "AppMobile\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T16:17:40.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DbTasksContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\APITarefas\\Models\\DbTasksContext.cs",
+              "RelativeDocumentMoniker": "APITarefas\\Models\\DbTasksContext.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\APITarefas\\Models\\DbTasksContext.cs",
+              "RelativeToolTip": "APITarefas\\Models\\DbTasksContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:37:29.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "AppMobile\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\MauiProgram.cs",
+              "RelativeToolTip": "AppMobile\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T16:02:09.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AppMobile\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\MainPage.xaml",
+              "RelativeToolTip": "AppMobile\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-16T16:45:19.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NovaTarefaPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\NovaTarefaPage.xaml",
+              "RelativeDocumentMoniker": "AppMobile\\NovaTarefaPage.xaml",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\NovaTarefaPage.xaml",
+              "RelativeToolTip": "AppMobile\\NovaTarefaPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-14T18:04:30.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NovaTarefaPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\NovaTarefaPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppMobile\\NovaTarefaPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\NovaTarefaPage.xaml.cs",
+              "RelativeToolTip": "AppMobile\\NovaTarefaPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T18:26:56.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppMobile\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\AppShell.xaml",
+              "RelativeToolTip": "AppMobile\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-14T18:34:47.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "splash.svg",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\Resources\\Splash\\splash.svg",
+              "RelativeDocumentMoniker": "AppMobile\\Resources\\Splash\\splash.svg",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\Resources\\Splash\\splash.svg",
+              "RelativeToolTip": "AppMobile\\Resources\\Splash\\splash.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKMSURBVDhPjZNLSFRhFMd/3507M/dKPsacsYelWGZZFFJRkdSmNrUoatMiKggSN2YFEUX3MvQiiBYWtFAyggoXPSGyhQuhFrXQFr7GMFOowcZMUO9MM3pPi9Eao6gf/Bcfh3PO/5yPo8jAsqxI5vtvKKXuhMPhK4jInIBlWRH5Bw0NDYOWZUVs264B0DILKEUXCCIpZOIi7uetpHpCxN8GiffU4rrThEIhXzgcXiEidbZtH/5ZQKTV\u002B72oItjSYfG5vxwneoX2/iW80dvxb4ji9D4BIBAIeBsbG4fSOXJWzSR7qpt9D\u002BvWndpTlNXL2HCQ28PXaIuVEB2Dmsp8DiZqyN35FAFiw19IJpPcbmrq0wCq7\u002BvHd5Y\u002B2rMy5y3OcBXmqtccq9rB/uUFKI/GzfZRPhRdBhEQIRgKUlxSAoAm0uqtWNB5Yu\u002Bier5\u002BWOoWbnxAwAwQzDao3lLIobX5ePxemiImroCIzFm\u002BztT7/CPLzi8ej\u002BVxdeyu1nJjgMR3FwDl0fD4dJRHozuWACStjM/TGDlZ50tNqHuxejo\u002B\u002BZPL8wwqCvxUFPhZFfBSbIBMJti0wJjpDpJRQXfjzr6uj9u\u002BtYysCWijA4OPqzeXpVLJtE010zS9cZDM1DTa9ASLmoaOnh4cEYaySsoa30T5Mp5kPD7Ni\u002B5Rtt7qofzqO553jqQHmHExi5p8RcRNsb6y7VWtnm1ecjUdcdM7QClwhQPl8zi3o\u002BiXdREMMwvbtvv0KYfmRJSBtvlVY93O6ujLlc8WdsYcdE1RmutlV3kO20tzcXFRohBFerQ/ccE6c11EJB53xIk7EndmNSnObxIRsSwrMucWUvh2AxiGiWmYGOassjB/0yxzzPzvOWfyAyvlXYiiBFoWAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-04-14T16:07:55.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "AppMobile\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "AppMobile\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-14T17:00:56.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "AppMobile\\Resources\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\AppMobile\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "AppMobile\\Resources\\Styles\\Colors.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-14T17:00:58.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAAIVAAAAAAAAAAAEwBEVAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-04-13T15:05:36.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "APITarefas",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\APITarefas\\APITarefas.csproj",
+              "RelativeDocumentMoniker": "APITarefas\\APITarefas.csproj",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\lista_tarefas\\APITarefas\\APITarefas\\APITarefas.csproj",
+              "RelativeToolTip": "APITarefas\\APITarefas.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-13T14:42:25.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
