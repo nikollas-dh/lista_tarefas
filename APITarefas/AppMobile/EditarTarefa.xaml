@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppMobile.EditarTarefa"
+             Title="EditarTarefa">
+    <VerticalStackLayout>
+        <Label 
+             Text="Editar Tarefa:"
+             VerticalOptions="Center" 
+             HorizontalOptions="Center" FontSize="24"/>
+
+        <Label Text="Tarefa"/>
+        <Label Text="Novo Nome:"/>
+        <Entry/>
+        <Label Text="Descrição"/>
+        <Label Text="Nova Descrição"/>
+        <Entry/>
+        <Label Text="Status"/>
+        <CheckBox/>
+        <Button
+            Text="Salvar" WidthRequest="250" VerticalOptions="End"/>
+        <Label 
+             Text="SubTarefas:"
+             VerticalOptions="Center" 
+             HorizontalOptions="Center" FontSize="24"/>
+        <Label 
+            Text="Subtarefas"/>
+        <Button Text="Adicionar tarefa" WidthRequest="250" VerticalOptions="End"/>
+
+
+    </VerticalStackLayout>
+</ContentPage>

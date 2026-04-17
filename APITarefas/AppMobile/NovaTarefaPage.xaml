@@ -20,6 +20,12 @@
         <Button 
             Text="Adicionar"
             WidthRequest="200"
-            Margin="0,100,0,0"/>
+            Margin="0,400,0,0"
+            Clicked="Button_Clicked"/>
+        <Button 
+            Text="Voltar"
+            WidthRequest="200"
+            Margin="0,10,0,0"
+            Clicked="Button_Clicked_1"/>
     </VerticalStackLayout>
 </ContentPage>

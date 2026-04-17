@@ -10,19 +10,28 @@
             Text="Lista de tarefas:"
             VerticalOptions="Center" 
             HorizontalOptions="Center" FontSize="24"/>
-        <SearchBar/>
+        <SearchBar Margin="0,0,0,50"/>
         <CollectionView HeightRequest="600" x:Name="colTasks">
-
             <CollectionView.ItemTemplate>
                 <DataTemplate>
-
                     <StackLayout Orientation="Horizontal" Margin="0, 10">
-                        <CheckBox />
+                        <CheckBox IsEnabled="False" VerticalOptions="Center">
+                            <CheckBox.Triggers>
+                                <DataTrigger TargetType="CheckBox" Binding="{Binding Concluida}" Value="True">
+                                    <Setter Property="IsChecked" Value="True" />
+                                </DataTrigger>
+
+                                <DataTrigger TargetType="CheckBox" Binding="{Binding Concluida}" Value="False">
+                                    <Setter Property="IsChecked" Value="False" />
+                                </DataTrigger>
+                            </CheckBox.Triggers>
+                        </CheckBox>
                         <StackLayout>
                             <Label  Text="{Binding Nome}"/>
                             <Label  Text="{Binding Data, StringFormat='{0:yyyy-MM-dd}'}"/>
                         </StackLayout>
-                        <ImageButton  HorizontalOptions="EndAndExpand" WidthRequest="50" HeightRequest="40" Source="trash.png" Clicked="ImageButton_Clicked" />
+                        <ImageButton  HorizontalOptions="EndAndExpand" WidthRequest="40" HeightRequest="30" Source="edit.png" Margin=" 0,0,10,0" Clicked="ImageButton_Clicked_1"/>
+                        <ImageButton  HorizontalOptions="End" WidthRequest="50" HeightRequest="40" Source="trash.png" Clicked="ImageButton_Clicked" Margin=" 0,0,10,0"/>
 
                     </StackLayout>
 
