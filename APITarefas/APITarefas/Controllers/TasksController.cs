@@ -80,7 +80,7 @@ namespace APITarefas.Controllers
                 return StatusCode(500, "Erro interno ao tentar deletar a tarefa.");
             }
         }
-        [HttpPut("{id:int}")]
+        [HttpPut("status/{id:int}")]
         public IActionResult StatusTarefa(int id, [FromBody] Models.Task task)
         {
             var tarefaBanco = _ctx.Tasks.Include(b => b.SubTasks).FirstOrDefault(b => b.Id == id);
@@ -101,7 +101,36 @@ namespace APITarefas.Controllers
             }
             catch (Exception ex)
             {
-                return StatusCode(500, "Erro interno ao tentar deletar a tarefa.");
+                return StatusCode(500, "Erro interno ao editar a tarefa.");
+            }
+        }
+        [HttpPut("{id:int}")]
+        public IActionResult Atualizar(int id, [FromBody] Models.Task task)
+        {
+            var tarefaBanco = _ctx.Tasks.Include(b => b.SubTasks).FirstOrDefault(b => b.Id == id);
+
+            if (tarefaBanco == null)
+            {
+                return NotFound("Tarefa não encontrada");
+            }
+            try
+            {
+                if (!string.IsNullOrEmpty(task.Nome))
+                {
+                    tarefaBanco.Nome = task.Nome;
+                }
+                if (!string.IsNullOrEmpty(task.Descrição)){
+                    tarefaBanco.Descrição = task.Descrição;
+                }
+                if (!string.IsNullOrEmpty(task.Concluida.ToString())) {
+                    tarefaBanco.Concluida = task.Concluida;
+                }
+                _ctx.SaveChanges();
+                return Ok("Tarefa atualizada com sucesso");
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, "Erro interno ao Editar a tarefa.");
             }
         }
 

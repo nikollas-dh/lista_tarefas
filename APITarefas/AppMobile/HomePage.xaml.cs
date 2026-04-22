@@ -15,7 +15,7 @@ public partial class HomePage : ContentPage
     }
     ObservableCollection<Task> _listTasks = new ObservableCollection<Task>();
 
-    //List<Task> _listaIntermediaria = new List<Task>();
+    List<Task> _listaIntermediaria = new List<Task>();
     protected override void OnAppearing()
     {
         base.OnAppearing();
@@ -48,6 +48,8 @@ public partial class HomePage : ContentPage
                 _listTasks.Add(item);
             }
             colTasks.ItemsSource = _listTasks;
+
+            _listaIntermediaria = listaDeApi;
         }
     }
 
@@ -84,6 +86,21 @@ public partial class HomePage : ContentPage
 
     private async void ImageButton_Clicked_1(object sender, EventArgs e)
     {
-        await Navigation.PushModalAsync(new EditarTarefa());
+        Task task = (sender as ImageButton).BindingContext as Task;
+        await Navigation.PushModalAsync(new EditarTarefa(task));
+    }
+
+    private void entSearchBar_TextChanged(object sender, TextChangedEventArgs e)
+    {
+        var newList = _listaIntermediaria
+               .Where(b => string.IsNullOrWhiteSpace(entSearchBar.Text) || b.Nome.ToLower().Contains(entSearchBar.Text.ToLower()))
+               .ToList();
+
+        _listTasks.Clear();
+
+        foreach (var item in newList)
+        {
+            _listTasks.Add(item);
+        }
     }
 }

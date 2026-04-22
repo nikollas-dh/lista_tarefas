@@ -10,7 +10,7 @@
             Text="Lista de tarefas:"
             VerticalOptions="Center" 
             HorizontalOptions="Center" FontSize="24"/>
-        <SearchBar Margin="0,0,0,50"/>
+        <SearchBar Margin="0,0,0,0" x:Name="entSearchBar" TextChanged="entSearchBar_TextChanged"/>
         <CollectionView HeightRequest="600" x:Name="colTasks">
             <CollectionView.ItemTemplate>
                 <DataTemplate>
